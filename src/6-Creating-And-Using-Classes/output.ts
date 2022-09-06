@@ -1,6 +1,12 @@
 import { getProducts, Product } from '../lib';
 import { FoodProduct } from '../lib/product';
 
+class Product {
+
+}
+
+let product = 
+
 class ProductOutput {
   products: Product[] = [];
   form = this.getElement('#form');
