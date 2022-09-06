@@ -15,7 +15,7 @@
   "scripts": {
     "webpack": "webpack --mode development",
     "webpack:w": "webpack --mode development --watch",
-    "start": "webpack serve --mode development --open",
+    "start": "webpack serve --mode development --open ",
     "pretty": "prettier -w ./src/*"
   },
   "author": "",
